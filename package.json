@@ -1,0 +1,13 @@
+{
+  "name": "blackjack-card-counter",
+  "version": "1.0.0",
+  "description": "Blackjack card counter POC",
+  "main": "src/index.js",
+  "repository": "https://github.com/joaquinsoza/blackjack-card-counter",
+  "author": "coderipper",
+  "license": "MIT",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/index.js"
+  }
+}
